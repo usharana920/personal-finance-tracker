@@ -5,17 +5,17 @@ Personal Finance Tracker is a simple and user-friendly web app built with React.
 You can easily track your net balance, delete entries, and view your progress toward your savings goal with a helpful progress bar. The app works in real time and looks great on all devices.
 Features
 
-    ✅ Add income and expenses with categories
+    Add income and expenses with categories
 
-    💰 View total income, expenses, and net balance
+    View total income, expenses, and net balance
 
-    🎯 Set and update your savings goal
+    Set and update your savings goal
 
-    📊 See progress toward your goal with a visual bar
+    See progress toward your goal with a visual bar
 
-    🗑️ Delete any entry
+    Delete any entry
 
-    📱 Responsive design (works on phones, tablets, and desktops)
+    Responsive design (works on phones, tablets, and desktops)
 
 Tech Stack
 
